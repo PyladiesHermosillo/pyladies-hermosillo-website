@@ -121,8 +121,8 @@ p {
 	display: block;
 	width: 100%;
 	max-width: 300px;
-	padding: 0px 15px 0px 15px;
-	margin-top: -15px;
+	padding: 0px 0px 0px 15px;
+	margin-top: 0px;
 	margin-bottom: 50px;
 	margin-right: auto;
 	margin-left: auto;
@@ -211,7 +211,7 @@ h1,h2,h3,h4 {
 }
 
 .skyline {
-	background-image: url('images/skyline.jpg');
+	background-image: url('images/background.jpg');
 	height: 450px;
 	background-size:cover;
 }
@@ -376,7 +376,7 @@ span.fa {
 }
 
 .small-geek {
-	background-image: url('./images/pylady_geek.png');
+	background-image: url('./images/pyladies_hermosillo.png');
 	background-size: contain;
 	width: 40px;
 	height: 40px;
@@ -386,7 +386,7 @@ span.fa {
 }
 
 .med-geek {
-	background-image: url('./images/pylady_geek.png');
+	background-image: url('./images/pyladies_hermosillo.png');
 	background-size: contain;
 	display: block;
 	margin-left: 10px;
